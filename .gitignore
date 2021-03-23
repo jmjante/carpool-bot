@@ -1,0 +1,10 @@
+__pycache__
+poolvenv/
+tgbot/samples/
+tgbot/table_design
+tgbot/databasecreate.sql
+tgbot/bfrvmemberupdate.py
+tgtbot/user_data_test.py
+tgtbot/cov_tester.py
+# tgbot/anon.session
+tgbot/bfrv_members_mycontacts.csv
